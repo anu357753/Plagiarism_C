@@ -1,0 +1,234 @@
+Sun Sep 17 20:09:00 2017
+Test-4.txt is an empty file. It will not be tested for plagiarism
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 94.193390
+LCS:  85.000000
+Finger Printing: 82.026138
+
+
+Plagiarism for Test-1.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-2.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+***********************************************************
+Mon Sep 18 08:56:56 2017
+Test-4.txt is an empty file. It will not be tested for plagiarism
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 94.193390
+LCS:  85.000000
+Finger Printing: 82.026138
+
+
+Plagiarism for Test-1.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-2.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+***********************************************************
+Mon Sep 18 11:56:28 2017
+Test-4.txt is an empty file. It will not be tested for plagiarism
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 99.046753
+LCS:  45.945946
+Finger Printing: 44.861485
+
+
+Plagiarism for Test-1.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-2.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+***********************************************************
+Mon Sep 18 14:37:56 2017
+Test-4.txt is an empty file. It will not be tested for plagiarism
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 99.046753
+LCS:  45.945946
+Finger Printing: 44.861485
+
+
+Plagiarism for Test-1.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-2.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+***********************************************************
+Mon Sep 18 14:50:59 2017
+
+     Plagiarism Test 
+------------------------
+
+***********************************************************
+Mon Sep 18 16:53:53 2017
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 67.583778
+LCS:  13.513513
+Finger Printing: 23.529411
+
+
+***********************************************************
+Mon Sep 18 21:31:25 2017
+Test-4.txt is an empty file. It will not be tested for plagiarism
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 99.046753
+LCS:  45.945946
+Finger Printing: 44.861485
+
+
+Plagiarism for Test-1.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-2.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+***********************************************************
+Tue Sep 19 08:58:16 2017
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 67.082039
+LCS:  56.000000
+Finger Printing: 22.222223
+
+
+***********************************************************
+Tue Sep 19 09:26:26 2017
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 67.082039
+LCS:  56.000000
+Finger Printing: 28.571430
+
+
+***********************************************************
+Thu Sep 21 21:44:31 2017
+Test-4.txt is an empty file. It will not be tested for plagiarism
+
+     Plagiarism Test 
+------------------------
+
+Plagiarism for Test-1.txt Test-2.txt
+
+Bag of Words: 99.046753
+LCS:  45.945946
+Finger Printing: 44.861485
+
+
+Plagiarism for Test-1.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-1.txt Test-5.txt
+
+Bag of Words: 72.716400
+LCS:  21.494661
+Finger Printing: 20.846233
+
+
+Plagiarism for Test-2.txt Test-3.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+Plagiarism for Test-2.txt Test-5.txt
+
+Bag of Words: 72.585396
+LCS:  57.523811
+Finger Printing: 57.386364
+
+
+Plagiarism for Test-3.txt Test-5.txt
+
+Bag of Words:     Test-3.txt is an invalid file
+LCS:              Test-3.txt is an invalid file
+Finger Printing:  Test-3.txt is an invalid file
+
+
+***********************************************************
